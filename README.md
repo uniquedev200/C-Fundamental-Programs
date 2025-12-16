@@ -14,5 +14,5 @@ The main goal of this repository is to:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/c-fundamentals.git
+   git clone https://github.com/theuniquedev/c-fundamentals.git
 2. Just Compile and Test Away!
