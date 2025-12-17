@@ -1,4 +1,4 @@
-//Converts the string cotaining decimal value with sign and power exponent to a double
+//Converts the string containing decimal value with sign and power exponent to a double
 #include <stdio.h>
 #include <ctype.h>
 
